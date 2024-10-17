@@ -8,3 +8,4 @@ git feach: atualizar arquivos
 git branch: ver branchs
 git branch nome: criar branchs
 git checkout nome: mudar de branch
+git push --set-upstream origin "nome da branch": publicar nova  branch na nuvem
