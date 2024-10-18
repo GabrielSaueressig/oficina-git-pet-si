@@ -3,7 +3,7 @@ Idade: 18 anos
 Curso e universidade: Sistemas de Informação - UFSM
 Matéria Favorita: Lab1
 Matéria que menos gosto: TGA(Porque sao 4 horas seguidas)
-
+Ano de Ingresso no Curso: 2024
 
 
 Escolha um Repositorio Publico:
